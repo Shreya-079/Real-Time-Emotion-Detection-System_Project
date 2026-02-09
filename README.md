@@ -68,13 +68,13 @@ This allows instructors to understand student interest, boredom, or confusion du
 
 - Uses a CNN-based model to classify emotions such as:
 
-- Happy
+a) Happy
 
-- Sad
+b) Sad
 
-- Angry
+c) Angry
 
-- Neutral
+d) Neutral
 
 5. Engagement Estimation
 
