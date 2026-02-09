@@ -34,7 +34,7 @@ Traditional classrooms and online learning platforms lack automated tools to mon
 
 This project proposes an AI-based solution to overcome these limitations. 
 
-**💡 Proposed System**
+## 💡 Proposed System
 
 The system performs the following operations:
 
